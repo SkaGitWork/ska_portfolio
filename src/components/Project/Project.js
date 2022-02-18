@@ -19,7 +19,7 @@ class Header extends React.Component {
         <ul className="actions special">
           <li>
             <a href={this.props.link} className="button">
-              GitHub Link
+              Website Link
             </a>
           </li>
         </ul>

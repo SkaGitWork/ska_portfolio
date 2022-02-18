@@ -5,10 +5,6 @@ import "./index.css"
 // import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 import Home from "./pages/Home"
-import Cad from "./pages/Cad"
-import Services from "./pages/Services"
-import Formation from "./pages/Formation"
-import Contact from "./pages/Contact"
 
 class App extends React.Component {
   componentDidMount() {

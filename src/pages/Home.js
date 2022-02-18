@@ -7,6 +7,19 @@ class Home extends React.Component {
   render() {
     var data = [
       {
+        title: "MIAC Consulting",
+        image: "MIAC.png",
+        text: 'MIAC Consulting was made to promote client services and trainings. It contains several pages : "Services", "Training", and "Contact". \n Technologies used : HTML, CSS, JavaScript',
+        link: "https://nasrhospitality.com",
+      },
+      {
+        title: "Nasr Hospitality",
+        image: "nasr website.png",
+        text: 'Nasr Hospitality Consulting was made to promote client services and trainings. It contains several pages : "About us", "Services", "Career", "Online Certificate" and "News". Also it\'s translated in 4 different languages \n Technologies used : HTML, CSS, JavaScript, PHP',
+
+        link: "https://nasrhospitality.com",
+      },
+      {
         image: "toDoApp.webp",
         title: "To Do App",
         text: 'The app contains a light and dark mode filters to display only completed or in progress to-do and finally a "drag and drop" feature to rearrange your to-do. This project was fun to create, i built it with Semantic HTML5 markup Flexbox CSS variables Vanilla Js. It taught me a lot of Javascript especially Js Dictionaries.',

@@ -16,7 +16,7 @@ function Footer() {
             </p>
           </section>
           <section>
-            <h3>Social</h3>
+            <h3>Socials</h3>
             <ul className="icons alt">
               <li>
                 <a
