@@ -6,7 +6,7 @@ class Header extends React.Component {
       <>
         {/* Intro */}
         <div id="intro">
-          <h1>I'm Twin Unison, make yourself at home</h1>
+          <h1>I'm Iskander, make yourself at home</h1>
           <p>Im a web developer ready to make your dream website.</p>
           <ul className="actions">
             <li>
