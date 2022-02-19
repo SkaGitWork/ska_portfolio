@@ -10,7 +10,7 @@ class Home extends React.Component {
         title: "MIAC Consulting",
         image: "MIAC.png",
         text: 'MIAC Consulting was made to promote client services and trainings. It contains several pages : "Services", "Training", and "Contact". \n Technologies used : HTML, CSS, JavaScript',
-        link: "https://nasrhospitality.com",
+        link: "http://www.miaconsulting.com.tn/",
       },
       {
         title: "Nasr Hospitality",
